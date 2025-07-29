@@ -20,8 +20,8 @@
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=sanjnachahar&theme=algolia&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjnachahar&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SanjnaChahar&theme=radical)](https://git.io/streak-stats)
+
 
 
 ### 🛠️ Technologies & Tools I Use:
