@@ -38,8 +38,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SanjnaChahar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=SanjnaChahar&theme=tokyonight" alt="GitHub Streak"/>
-  <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=SanjnaChahar&theme=tokyonight&margin-w=15&row=1&column=6" alt="Trophies" />
 </p>
 
