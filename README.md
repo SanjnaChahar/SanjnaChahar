@@ -14,6 +14,15 @@
 - 🎯 Goal: To contribute to impactful tech solutions and make myself proud ❤️
 
 ---
+## 📊 GitHub Stats
+![Sanjna's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjnachahar&show_icons=true&theme=tokyonight&hide_title=false)
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=sanjnachahar&theme=algolia&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjnachahar&theme=tokyonight)
+
 
 ### 🛠️ Technologies & Tools I Use:
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
