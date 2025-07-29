@@ -1,50 +1,53 @@
-<h1 align="center">Hi 👋, I'm Sanjna</h1>
-<h3 align="center">A passionate developer building real-world projects</h3>
+<h2 align="center">Hey 👋 I'm Sanjna Chahar</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjnachahar&label=Profile%20views&color=0e75b6&style=flat" alt="sanjnachahar" />
+  🚀 Tech Enthusiast | 💻 Full-Stack Developer | 🌱 Learning DSA & Backend  
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SanjnaChahar&label=Profile%20views&color=0e75b6&style=flat" alt="SanjnaChahar" />
 </p>
 
 ---
 
-- 🌱 I’m currently diving deeper into **DSA** and **Full Stack Web Development**  
-- 🔭 Currently working on backend + frontend projects and participating in **hackathons**
-- 💬 Ask me about tech, career, or women's safety tech ideas 💡
-- ⚡ Fun fact: I love coding at night with chill music and solving real-life problems through tech  
-- 🎯 Goal: To contribute to impactful tech solutions and make myself proud ❤️
+### 💡 About Me
 
----
-## 📊 GitHub Stats
-![Sanjna's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjnachahar&show_icons=true&theme=tokyonight&hide_title=false)
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=sanjnachahar&theme=algolia&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SanjnaChahar&theme=radical)](https://git.io/streak-stats)
-
-
-
-### 🛠️ Technologies & Tools I Use:
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+- 🎓 3rd Year B.Tech Undergrad, passionate about **tech** and **real-world problem solving**
+- 👩‍💻 Full Stack Developer — confident with both **Frontend** and **Backend**
+- 📚 Currently learning **DSA**, **Node.js**, and exploring **System Design**
+- 🛠️ Participating in Hackathons (SIH, Hack With Delhi, etc.)
+- ✨ Love crafting clean UI and meaningful digital experiences
 
 ---
 
-### 📫 Let’s Connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-USERNAME)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+### 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ---
+
+### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjnachahar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SanjnaChahar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjnachahar&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=SanjnaChahar&theme=tokyonight" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SanjnaChahar&theme=tokyonight&margin-w=15&row=1&column=6" alt="Trophies" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="sanjnachahar512@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sanjna-chahar-4661b8294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
